@@ -1,0 +1,29 @@
+ALFA-BETA con TIC TAC TOE Jugando solo maquina
+
+Juega X
+Metrics : {expandedNodes=30709}
+Juega O
+Metrics : {expandedNodes=4089}
+Juega X
+Metrics : {expandedNodes=1519}
+Juega O
+Metrics : {expandedNodes=220}
+Juega X
+Metrics : {expandedNodes=97}
+Juega O
+Metrics : {expandedNodes=32}
+Juega X
+Metrics : {expandedNodes=13}
+Juega O
+Metrics : {expandedNodes=4}
+Juega X
+Metrics : {expandedNodes=1}
+GAME OVER: 
+X O X 
+X O O 
+O X X 
+
+¡Hubo un empate!
+
+
+
